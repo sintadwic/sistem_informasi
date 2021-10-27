@@ -60,7 +60,7 @@ https://templatemo.com/tm-552-video-catalog
             <div id="tm-video-container">
                 <video autoplay muted loop id="tm-video">
                     <!-- <source src="video/sunset-timelapse-video.mp4" type="video/mp4"> -->
-                    <source src="video/wheat-field.mp4" type="video/mp4">
+                    <source src="video/wheat-field-2_zkzuS7NC.mp4" type="video/mp4">
                 </video>
             </div>
 
@@ -112,13 +112,10 @@ https://templatemo.com/tm-552-video-catalog
                                 </a>
                             </div>
                             <div class="p-4 tm-bg-gray tm-catalog-item-description">
-                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Jawa Timur Park 2</h3>
-                                <p class="tm-catalog-item-text">Jatim Park 2 yang berlokasi di Jalan Oro-Oro Ombo nomor
-                                    9. Objek wisata Batu yang satu
-                                    ini punya Batu Secret Zoo dan Eco Green Park yang pasti disukai anak-anak.
-                                    Juga ada akuarium dengan berbagai jenis ikan, pulau harimau, rumah terbalik, fantasy
-                                    land, dan river adventure yang tak kalah seru. <a
-                                        href="https://jtp.id/jatimpark2/">Selengkapnya..</p>
+                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Taman Kelinci</h3>
+                                <p class="tm-catalog-item-text">Rumah Kelinci mini ini menjadi salah satu spot wisata terbaru yang bisa anda 
+                                jadikan tempat untuk rekreasi bersama keluarga kalau anda sedang ke daerah Batu Malang<a
+                                        href="/tamankelinci">Selengkapnya..</p>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 tm-catalog-item">
@@ -128,11 +125,12 @@ https://templatemo.com/tm-552-video-catalog
                                 </a>
                             </div>
                             <div class="p-4 tm-bg-gray tm-catalog-item-description">
-                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Jawa Timur Park 3</h3>
-                                <p class="tm-catalog-item-text">Terbaru dari Jatim Park Group adalah Jatim Park 3 yang
-                                    beralamat di Jalan Raya
-                                    Ir. Soekarno nomor 144. Taman hiburan ini punya Dino Park, Infinite World, Fun Tech
-                                    Plaza, sampai Museum Musik Dunia. <a href="https://jtp.id/dinopark/">Selengkapnya..
+                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Batu Night Spectaculer</h3>
+                                <p class="tm-catalog-item-text">BNS yang merupakan akronim dari Batu Night Spectaculer.
+                                    Objek wisata yang satu ini berada di Desa Oro-Oro Ombo, dekat dengan Jatim Park 2.
+                                    Sehingga tidak heran kalau warga batu dan wistawan yang datang kesini terhibur dan 
+                                    betah berlama-lama disini<a 
+                                    href="/bns">Selengkapnya..
                                 </p>
                             </div>
                         </div>
@@ -143,42 +141,26 @@ https://templatemo.com/tm-552-video-catalog
                                 </a>
                             </div>
                             <div class="p-4 tm-bg-gray tm-catalog-item-description">
-                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Predator Fun Park</h3>
-                                <p class="tm-catalog-item-text">Predator Fun Park yang bermaskot buaya unyu merupakan
-                                    taman hiburan dengan tema reptil yang berlokasi di
-                                    Jalan Raya Tlekung 315, Kecamatan Junrejo, Batu. Tempat ini punya berbagai jenis
-                                    wisata edukatif yang menarik buat anak.
-                                    Mulai dari galeri buaya, croco train, waterboom, outbond, family fun house <a
-                                        href="https://jtp.id/predatorfunpark/">Selengkapnya..</p>
+                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Museum Angkut</h3>
+                                <p class="tm-catalog-item-text">Museum ini termasuk baru dibuka, sekitar 
+                                tanggal 9 Maraet 2014 dan menjadi tempat wisata pertama di Asia Tenggara
+                                xyang mengusung konsep transportasi. Di Museum Angkut kita bisa melihat 
+                                berbagai koleksi moda transportasi, mulai dari yang ditarik hewan samapai 
+                                dengan transportasi yang menggunakan tenaga listrik<a
+                                        href="/museumangkut">Selengkapnya..</p>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 tm-catalog-item">
                             <div class="position-relative tm-thumbnail-container">
-                                <img src="img/tn-06.jpg" alt="Image" class="img-fluid tm-catalog-item-img">
+                                <img src="img/c6.jpg" alt="Image" class="img-fluid tm-catalog-item-img">
                                 <a class="position-absolute tm-img-overlay">
                                 </a>
                             </div>
                             <div class="p-4 tm-bg-gray tm-catalog-item-description">
-                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Batu Night Spectacular</h3>
-                                <p class="tm-catalog-item-text">di malam hari yang meriah, coba mampir ke Batu Night
-                                    Spectacular (BNS) bersama keluarga.
-                                    Ada berbagai jenis wahana permainan seru yang bisa dicoba. Sekadar jajan atau
-                                    menikmati keindahan Lampion Garden juga bisa. <a
-                                        href="https://jtp.id/bns/">Selengkapnya..</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 tm-catalog-item">
-                            <div class="position-relative tm-thumbnail-container">
-                                <img src="img/c7.jpg" alt="Image" class="img-fluid tm-catalog-item-img">
-                                <a class="position-absolute tm-img-overlay">
-                                </a>
-                            </div>
-                            <div class="p-4 tm-bg-gray tm-catalog-item-description">
-                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">The Onsen Hot Spring Resort</h3>
-                                <p class="tm-catalog-item-text"> pemandian air panas dan vilanya ada The Onsen, resort
-                                    yang menawarkan sensasi liburan mewah bergaya Jepang.
-                                    Suasananya memang dibuat persis seperti onsen di negeri sakura. <a
-                                        href="https://www.jtp.id/">Selengkapnya..</p>
+                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Kaliwatu Refting</h3>
+                                <p class="tm-catalog-item-text">Anda suka dan tertarik dengan kegiatan yang menantang? bagaimana kalau 
+                        kita menaklukan ganasnya sungai Kaliwatu? <a
+                                        href="/kaliwaturafting">Selengkapnya..</p>
                             </div>
                         </div>
                     </div>

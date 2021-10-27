@@ -35,6 +35,20 @@ Route::get('/omahkayu', function () {
     return view('layouts/omahkayu');
 });
 
+Route::get('/tamankelinci', function () {
+    return view('layouts/tamankelinci');
+});
 
+Route::get('/bns', function () {
+    return view('layouts/bns');
+});
+
+Route::get('/museumangkut', function () {
+    return view('layouts/museumangkut');
+});
+
+Route::get('/kaliwaturafting', function () {
+    return view('layouts/kaliwaturafting');
+});
 Auth::routes();
 
