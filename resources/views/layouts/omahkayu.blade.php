@@ -19,9 +19,7 @@
                 <h1>Omah Kayu</h1><br>
                     <img src="img/tn-02.jpg">
                         <div class="hero-content">
-                    <p> Taman Flora Wisata Santerra De Laponte adalah tempat rekreasi dimana pengunjung akan 
-                        disajikan beberapa tumbuhan dan bunga-bunga yang cantik. Ada tanaman Euphorbia, mawar, 
-                        tanaman gantung, lidah mertua, dan masih banyak lagi.<br><br>
+                    <p> <br><br>
                         Santera De Laponte di tengah pandemi beroperasi pukul 08.00 pagi hingga 17.00 WIB. 
                         Tiket masuk cukup terjangkau, yakni sebesar Rp 30.000,00. Flora Wisata Santerra De 
                         Laponte berlokasi di Pandesari, Pujon Batu.Flora Wisata Santera De Laponte, 
