@@ -38,13 +38,6 @@ https://templatemo.com/tm-552-video-catalog
                                     </button>
                                     <div class="collapse navbar-collapse tm-nav" id="navbar-nav">
                                         <ul class="navbar-nav text-uppercase">
-                                            <li class="nav-item active">
-                                                <a class="nav-link tm-nav-link
-                                                    {{ Request::path() === 'layouts/maps' ? 'bg-primary' : ''}} " href="/maps">Maps</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a class="nav-link tm-nav-link" href="contact.html">About</a>
-                                            </li>
                                         </ul>
                                     </div>
                                 </nav>
@@ -89,11 +82,11 @@ https://templatemo.com/tm-552-video-catalog
                                 </a>
                             </div>
                             <div class="p-4 tm-bg-gray tm-catalog-item-description">
-                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Alun-Alun Kota Wisata Batu</h3>
-                                <p class="tm-catalog-item-text">Alun-Alun kota. Memiliki ciri khas berupa monumen
-                                    berbentuk apel dan bianglala, tempat ini menjadi lokasi wisata murah meriah bagi
-                                    warga Batu dan sekitarnya.
-                                    Banyak wahana permainan khas pasar malam kagetan yang bisa dicoba di sini ..
+                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Omah Kayu</h3>
+                                <p class="tm-catalog-item-text">Omah kayu ini menjadi salah satu tujuan wisata 
+                                    Batu Malang yang tidak boleh anda lewatkan. Ukuran rumak ini sekitar 3x3 meter, 
+                                    dan fasilitas yang ada di Omah Kayu ada kamar tidur dan ada juga pemanas air.<a
+                                    href="/omahkayu">Selengkapnya..</p>
                                 </p>
                             </div>
                         </div>
@@ -104,11 +97,11 @@ https://templatemo.com/tm-552-video-catalog
                                 </a>
                             </div>
                             <div class="p-4 tm-bg-gray tm-catalog-item-description">
-                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Jawa Timur Park 1</h3>
-                                <p class="tm-catalog-item-text">Taman hiburan keluarga ini berlokasi di Jalan Kartika
-                                    nomor 2. Ini adalah taman bermain terbesar pertama di Jawa Timur, cikal bakal dari
-                                    Jatim Park 2, Jatim Park 3,
-                                    dan objek wisata Batu lainnnya yang juga dikelola Jatim Park Group (JTP) <a
+                                <h3 class="tm-text-primary mb-3 tm-catalog-item-title">Santera De Laponte</h3>
+                                <p class="tm-catalog-item-text">Taman Flora Wisata Santerra De Laponte adalah 
+                                    tempat rekreasi dimana pengunjung akan disajikan beberapa tumbuhan dan 
+                                    bunga-bunga yang cantik. Ada tanaman Euphorbia, mawar, tanaman gantung, 
+                                    lidah mertua, dan masih banyak lagi.<a
                                         href="/content">Selengkapnya..</p>
                             </div>
                         </div>
@@ -190,20 +183,6 @@ https://templatemo.com/tm-552-video-catalog
                         </div>
                     </div>
                 </main>
-
-                <!-- Subscribe form and footer links -->
-                <div class="row mt-5 pt-3">
-                    <div class="col-xl-6 col-lg-12 mb-4">
-                        <div class="tm-bg-gray p-5 h-100">
-                            <h3 class="tm-text-primary mb-3">More Information</h3>
-                            <p class="mb-5">Memberikan informasi tempat wisata di Kota batu, beserta lokasi yang
-                                tertera pada map didalam website.
-                            </p>
-                            <p class="mb-1"> Contact : 081111x21112 </p>
-                            <p> Email : jalanjalanLaravel@gmail.com </p>
-                        </div>
-                    </div>
-                </div> <!-- row -->
             </div> <!-- tm-content-container -->
         </div>
 

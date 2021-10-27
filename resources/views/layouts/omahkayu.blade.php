@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Santera De Laponte</title>
+    <title>Omah Kayu</title>
     <link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
     <!-- https://fonts.google.com/ -->
@@ -16,7 +16,7 @@
     <div class="container">
         <main class="content">
             <section class="hero"> 
-                <h1>Santera De Laponte</h1><br>
+                <h1>Omah Kayu</h1><br>
                     <img src="img/tn-02.jpg">
                         <div class="hero-content">
                     <p> Taman Flora Wisata Santerra De Laponte adalah tempat rekreasi dimana pengunjung akan 

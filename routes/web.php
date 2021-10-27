@@ -31,7 +31,9 @@ Route::get('/content', function () {
     return view('layouts/content');
 });
 
-
+Route::get('/omahkayu', function () {
+    return view('layouts/omahkayu');
+});
 
 
 Auth::routes();
